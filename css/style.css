@@ -269,7 +269,7 @@ h3 {
 
 .owl-carousel:hover .owl-nav div:hover {
     color: #fff;
-    background: #009DFF
+    background: #d48a00
 }
 
 .mb-20px {
@@ -285,18 +285,18 @@ h3 {
     font-size: 14px;
     font-weight: 400;
     border: 0;
-    border: 1px solid #009DFF;
+    border: 1px solid #d48a00;
     letter-spacing: 3px;
     text-align: center;
-    color: #009DFF !important;
+    color: #d48a00 !important;
     text-transform: uppercase;
     cursor: pointer
 }
 
 .boxed-btn:hover {
-    background: #009DFF;
+    background: #d48a00;
     color: #fff !important;
-    border: 1px solid #009DFF
+    border: 1px solid #ffffff
 }
 
 .boxed-btn:focus {
@@ -308,7 +308,7 @@ h3 {
 }
 
 .boxed-btn3 {
-    background: #009DFF;
+    background: #fff;
     color: #fff;
     display: inline-block;
     padding: 18px 44px;
@@ -316,10 +316,10 @@ h3 {
     font-size: 14px;
     font-weight: 400;
     border: 0;
-    border: 1px solid #009DFF;
+    border: 1px solid #FFFFFF;
     letter-spacing: 3px;
     text-align: center;
-    color: #fff !important;
+    color: #d48a00 !important;
     text-transform: uppercase;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -329,9 +329,9 @@ h3 {
 }
 
 .boxed-btn3:hover {
-    background: #fff;
-    color: #009DFF !important;
-    border: 1px solid #009DFF
+    background: #d48a00;
+    color: #FFFFFF !important;
+    border: 1px solid #d48a00
 }
 
 .boxed-btn3:focus {
@@ -386,29 +386,29 @@ h3 {
 }
 
 .line-button:hover {
-    color: #009DFF
+    color: #d48a00
 }
 
 .line-button:hover::before {
-    background: #009DFF
+    background: #d48a00
 }
 
 .book_now {
     display: inline-block;
     font-size: 14px;
-    color: #009DFF;
-    border: 1px solid #009DFF;
+    color: #d48a00;
+    border: 1px solid #d48a00;
     text-transform: capitalize;
     padding: 10px 25px
 }
 
 .book_now:hover {
-    background: #009DFF;
+    background: #d48a00;
     color: #fff
 }
 
 .section_title span {
-    color: #009DFF;
+    color: #d48a00;
     font-size: 14px;
     font-weight: 400;
     margin-bottom: 15px;
@@ -479,11 +479,11 @@ h3 {
 
 .slicknav_menu .slicknav_nav a:hover {
     background: transparent;
-    color: #009DFF
+    color: #d48a00
 }
 
 .slicknav_menu .slicknav_nav a.active {
-    color: #009DFF
+    color: #d48a00
 }
 
 @media (max-width: 767px) {
@@ -683,7 +683,7 @@ h3 {
 }
 
 .header-area .main-header-area .book_room .book_btn a {
-    background: #009DFF;
+    background: #d48a00;
     padding: 12px 26px;
     font-size: 14px;
     font-weight: 400;
@@ -693,8 +693,8 @@ h3 {
 
 .header-area .main-header-area .book_room .book_btn a:hover {
     background: #fff;
-    color: #009DFF;
-    border: 1px solid #009DFF
+    color: #d48a00;
+    border: 1px solid #FFFFFF
 }
 
 .header-area .main-header-area .main-menu {
@@ -1329,7 +1329,7 @@ h3 {
     background: #fff;
     line-height: 60px;
     font-size: 15px;
-    color: #009DFF;
+    color: #d48a00;
     display: inline-block;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -1462,7 +1462,7 @@ h3 {
 }
 
 .features_room .rooms_here .single_rooms .room_thumb .room_heading a:hover {
-    color: #009DFF
+    color: #d48a00
 }
 
 .features_room .rooms_here .single_rooms:hover img {
@@ -1558,7 +1558,7 @@ h3 {
 }
 
 .forQuery .Query_border .phone_num a {
-    background: #009DFF;
+    background: #d48a00;
     color: #fff;
     padding: 12px 53px;
     border-radius: 30px;
@@ -1568,8 +1568,8 @@ h3 {
 }
 
 .forQuery .Query_border .phone_num a:hover {
-    color: #009DFF;
-    border: 1px solid #009DFF;
+    color: #d48a00;
+    border: 1px solid #d48a00;
     background: #fff
 }
 
@@ -1757,7 +1757,7 @@ h3 {
 }
 
 .footer .footer_top .footer_widget ul li a:hover {
-    color: #009DFF
+    color: #d48a00
 }
 
 .footer .footer_top .footer_widget .newsletter_form {
@@ -1788,7 +1788,7 @@ h3 {
     border: none;
     font-size: 14px;
     color: #fff;
-    background: #009DFF;
+    background: #d48a00;
     padding: 10px;
     padding: 0 22px;
     cursor: pointer
@@ -1822,7 +1822,7 @@ h3 {
 }
 
 .footer .copy-right_text .copy_right a {
-    color: #009DFF
+    color: #d48a00
 }
 
 .footer .copy-right_text .socail_links {
@@ -1891,7 +1891,7 @@ h3 {
 }
 
 .popup_box {
-    background: #fff;
+    background: rgba(0, 0, 0, 0);
     display: inline-block;
     z-index: 9;
     width: 681px;
@@ -3304,7 +3304,7 @@ h6 {
 
 .blog_area a:hover,
 .blog_area a :hover {
-    background: -webkit-linear-gradient(131deg, #009DFF 0%, #009DFF 99%);
+    background: -webkit-linear-gradient(131deg, #d48a00 0%, #d48a00 99%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: none;
@@ -3734,7 +3734,7 @@ h6 {
 }
 
 .blog_details a:hover {
-    color: #009DFF
+    color: #d48a00
 }
 
 .blog_details h2 {
@@ -3792,7 +3792,7 @@ h6 {
     left: 10px;
     display: block;
     color: #fff;
-    background-color: #009DFF;
+    background-color: #d48a00;
     padding: 8px 15px;
     border-radius: 5px
 }
@@ -3988,7 +3988,7 @@ h6 {
 }
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-    background: #009DFF;
+    background: #d48a00;
     color: #fff !important;
     -webkit-text-fill-color: #fff;
     text-decoration: none;
@@ -4199,7 +4199,7 @@ h6 {
 }
 
 .single-post-area .blog-author a:hover {
-    color: #009DFF
+    color: #d48a00
 }
 
 .single-post-area .blog-author p {
@@ -4559,7 +4559,7 @@ h6 {
 }
 
 .blog_part .single-home-blog .card .card-body a {
-    color: #009DFF;
+    color: #d48a00;
     text-transform: uppercase;
     -webkit-transition: .8s;
     transition: .8s
